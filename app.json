@@ -1,0 +1,13 @@
+{
+    "name": "Poo",
+    "description": "Deploy on Heroku.",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "<UUID>",
+            "value": "<--Enter your UUID!-->"
+        }
+    },
+    "repository": "Poo",
+    "stack": "container"
+}

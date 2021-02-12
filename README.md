@@ -1,16 +1,15 @@
-### Hi there 👋
+# heroku-vless
+Deploy VLESS server to heroku
 
-<!--
-**Pooee/Pooee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Pooee/Pooee/tree/main)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+VLESS:
+Address: yourAppName.herokuapp.com
+Port: 443
+id: Your entered id
+Flow: xtls-rprx-direct
+encryption: none
+Transport: ws
+TLS: tls
